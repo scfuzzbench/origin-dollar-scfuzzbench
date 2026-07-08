@@ -99,3 +99,4 @@ corpus/
 out/
 cache/
 crytic-export/
+slither_results.json
