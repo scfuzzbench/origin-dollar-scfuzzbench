@@ -94,3 +94,8 @@ unit-coverage
 
 # Possible Agent.md file
 AGENTS.md
+# scfuzzbench fuzzing artifacts
+corpus/
+out/
+cache/
+crytic-export/
